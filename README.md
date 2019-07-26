@@ -1,4 +1,4 @@
-# DistributionPointPriority
+# DP Content Distribution Priority Manager
 An app for altering ConfigMgr Distribution Point content distribution priority values
 by dragging and dropping on a list to reorder the servers.
      
@@ -18,6 +18,4 @@ This software is provided "as-is". No claim of suitability, guarantee, or any wa
 - When you are satisfied with the new priority values shown in the list, use the **Save Changes** button to write those values back to WMI on the site server.
      
 ### Attributions
-ListViewDragDropManager and associated classes by Josh Smith
-https://www.codeproject.com/Articles/17266/Drag-and-Drop-Items-in-a-WPF-ListView
-Used in accordance with the Code Project Open License.
+ListViewDragDropManager and associated classes by Josh Smith. Used in accordance with the Code Project Open License. (https://www.codeproject.com/Articles/17266/Drag-and-Drop-Items-in-a-WPF-ListView)
