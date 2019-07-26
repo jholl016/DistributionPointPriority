@@ -1,4 +1,4 @@
-# DP Content Distribution Priority Manager
+# Distribution Point Priority Manager
 An app for altering ConfigMgr Distribution Point content distribution priority values
 by dragging and dropping on a list to reorder the servers.
      
