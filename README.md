@@ -16,6 +16,9 @@ This software is provided "as-is". No claim of suitability, guarantee, or any wa
 - The **Use Shared Priority** checkboxes determine whether the distribution point should share a priority value with adjacent list items.
 - The **Reset All** button will set all distribution points to use shared priority and assign the default priority value of 200.
 - When you are satisfied with the new priority values shown in the list, use the **Save Changes** button to write those values back to WMI on the site server.
+
+### Download
+The full source code and VS2019 solution is provided. If you only want to download the compiled EXE, it's in the release folder (https://github.com/jholl016/DistributionPointPriority/tree/master/Distribution%20Point%20Priority/bin/Release).
      
 ### Attributions
 ListViewDragDropManager and associated classes by Josh Smith. Used in accordance with the Code Project Open License. (https://www.codeproject.com/Articles/17266/Drag-and-Drop-Items-in-a-WPF-ListView)
