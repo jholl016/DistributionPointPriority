@@ -1,0 +1,16 @@
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\bin\Release\Distribution Point Priority.exe.config
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\bin\Release\Distribution Point Priority.exe
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\bin\Release\Distribution Point Priority.pdb
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.csprojAssemblyReference.cache
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\MainWindow.g.cs
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\App.g.cs
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority_MarkupCompile.cache
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority_MarkupCompile.lref
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\MainWindow.baml
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.g.resources
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution_Point_Priority.Properties.Resources.resources
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.csproj.GenerateResource.cache
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.csproj.CoreCompileInputs.cache
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.exe
+C:\Users\jholloman\OneDrive - VHB\Documents\VSTS\Distribution Point Priority\VSproj\Distribution Point Priority\Distribution Point Priority\obj\Release\Distribution Point Priority.pdb
